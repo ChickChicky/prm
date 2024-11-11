@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "rootDir": "./",
+        "moduleResolution": "Node10",
+        "esModuleInterop": true
+    },
+    "exclude":[
+        "./node_modules"
+    ],
+    "typeAcquisition": {
+        "enable": true,
+    }
+}
